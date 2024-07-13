@@ -3,6 +3,9 @@
 With a over a 100% increase in performance for ‘Nederlands’ compared to QWERTY.
 I would like to present the “Reduced Typing Method” or RTM-layout:
 
+## Main layer
+![Left](/images/1_main_left.png) ![Right](/images/2_main_right.png)
+
 ## Numpad layer
  
 ## Index and middle finger combos
