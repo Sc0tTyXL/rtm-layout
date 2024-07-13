@@ -4,14 +4,16 @@ With a over a 100% increase in performance for ‘Nederlands’ compared to QWER
 I would like to present the “Reduced Typing Method” or RTM-layout:
 
 ## Main layer
-![Left](/images/1_main.png)
+![Main](/images/1_main.png)
 
 ## Numpad layer
  
 ## Index and middle finger combos
- 
+ ![Index and Middle](/images/2_combo_index_ring.png)
+ ![Index and Middle](/images/2_combo_index_ring_diag.png)
  
 ## Middle and ring finger combos plus index finger chords
+ ![Middle and Ring](/images/3_combo_middle_ring.png)
 
 ## Index, middle and ring finger combos
  
