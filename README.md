@@ -4,7 +4,7 @@ With a over a 100% increase in performance for ‘Nederlands’ compared to QWER
 I would like to present the “Reduced Typing Method” or RTM-layout:
 
 ## Main layer
-![Left](/images/1_main_left.png) ![Right](/images/2_main_right.png)
+![Left](/images/1_main.png)
 
 ## Numpad layer
  
