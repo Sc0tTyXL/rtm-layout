@@ -1,7 +1,7 @@
 # Hello World!
 
 With a over a 100% increase in performance for ‘Nederlands’ compared to QWERTY.
-I would like to present the “Reduced Typing Method” or RTM-layout:
+I would like to present the “Reduced Typing Method” or RTM-layout
 
 ## Main layer
 ![Main](/images/1_main.png)
@@ -11,8 +11,8 @@ I would like to present the “Reduced Typing Method” or RTM-layout:
  
 ## Index and middle finger combos
 ![Index and Middle](/images/2_combo_index_ring.png)
-![Index and Middle](/images/2_combo_index_ring_diag.png)
 ![Index and Middle](/images/2_combo_index_middle_diag.png)
+![Index and Middle](/images/2_combo_middle_ring_diag.png)
  
 ## Middle and ring finger combos plus index finger chords
 ![Middle and Ring](/images/2_combo_middle_ring.png)
@@ -27,9 +27,9 @@ I would like to present the “Reduced Typing Method” or RTM-layout:
 ## Developer specific combos
 ![Dev #1](/images/4_index_ring_combos.png)
 ![Dev #2](/images/4_index_pinky_combo.png)
-
-## Load
-This is the character frequency load for each finger:
+ 
+# Downloads
+[rtm.nl.glove80.json](/layouts/rtm.nl.glove80.json)
  
 # Design principles
 
@@ -145,12 +145,12 @@ The trigram SCH is used frequently in Dutch. Because of the placement of H next 
 My WhatPulse data set, now double the size it was, was used as a decision guide. 
 Though not 100% accurate with the dataset all choices could be made within the margins.
 
+## Load
 Resulting in these finger loads:  
 ![Glove 80 Heatmap](/images/finger_usage.png)
 
 And this key load:  
 ![Glove 80 Heatmap](/images/key_usage.png)
-
 
 # KLA
 Sadly KLA doesn’t recognize the IJ character and so does not take this in consideration.
