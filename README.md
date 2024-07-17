@@ -7,19 +7,25 @@ I would like to present the “Reduced Typing Method” or RTM-layout:
 ![Main](/images/1_main.png)
 
 ## Numpad layer
+![Numpad](/images/2_numpad.png)
  
 ## Index and middle finger combos
- ![Index and Middle](/images/2_combo_index_ring.png)
- ![Index and Middle](/images/2_combo_index_ring_diag.png)
+![Index and Middle](/images/2_combo_index_ring.png)
+![Index and Middle](/images/2_combo_index_ring_diag.png)
  
 ## Middle and ring finger combos plus index finger chords
- ![Middle and Ring](/images/3_combo_middle_ring.png)
+![Middle and Ring](/images/2_combo_middle_ring.png)
 
-## Index, middle and ring finger combos
+## Multi finger combos
+![Index, Middle and Ring](/images/3_3_finger_combos.png)
+![Index, Middle, Ring and Pinky](/images/3_4_finger_combos.png)
  
 ## Chords
+![Chords](/images/chords.png)
  
 ## Developer specific combos
+![Dev #1](/images/4_index_ring_combos.png)
+![Dev #2](/images/4_index_pinky_combo.png)
 
 ## Load
 This is the character frequency load for each finger:
@@ -150,7 +156,7 @@ Sadly KLA doesn’t recognize the IJ character and so does not take this in cons
 It also has no support for combo’s. So I used the AltGr key for the combo keys. My thinking is that it’s still pressing two keys. Using the combo’s as I intended should actually make it even more efficient then measured by KLA, by my reasoning.
 
 # Numpad
-I currently use a normal numpad layout:
+I currently use a normal numpad layout:  
 789  
 456  
 123  
