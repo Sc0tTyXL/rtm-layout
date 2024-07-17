@@ -49,12 +49,24 @@ It was the best dataset I could publicly find that would punish any bad decision
 With the dataset ready I benchmarked several of the current top layouts which gave me even more confidence to start the design process. 
 
 # Fingers
-The Thumb is very strong but was never intended to do sideways moment, it is also not very nimble. I am also looking holistically to the finger usage and the right thumb is used a lot while handling a smart phone. It is also used for mouse movement (or in my case pen movement).
+The Thumb is very strong but was never intended to do sideways moment, it is also not very nimble. 
+I am also looking holistically to the finger usage and the right thumb is used a lot while handling a smart phone. 
+It is also used for mouse movement (or in my case pen movement).
+
 For me personally the thumb already feels sore with periods of high smartphone usage. Several tests for using a high frequency letter like T or E resulted in pains in that thumb at the end of the day. So I placed a design restriction on the right thumb that the combined usage must not be higher than 1% of the total.
+
 The Index finger is very nimble and strong; the lateral movement is no real problem. Diagonal key movements are in my opinion uncomfortable. Different to the Engram Layout I chose not use the diagonal keys at all and place a low frequency on the lateral key. These keys can handle a high movement load. A tiny note: the effort for the key above the home row is a little higher than the key below because the finger needs to completely stretch
+
 The Middle finger is very strong and vertical movement is easy. So these fingers can handle a good load but moving around is a little slower.
+
 The Ring finger is almost the same as the same as the middle; just a little less strong and nimble. The key below the homerow is a little harder to reach.
-Pinkies are weak and not very nimble. Can do one key very well but other keys require a lot of effort or are uncomfortable. I therefor opted to exclude the  keys below and above the pinky homerow and any keys to the sides.
+
+Pinkies are weak and not very nimble. 
+Can do one key very well but other keys require a lot of effort or are uncomfortable. 
+I therefor opted to exclude the keys below and above the pinky homerow and any keys to the sides.
+
+That leaves this heatmap for me personally on the Glove 80
+![Index and Middle](/images/glove80_heatmap.png)
 This ended up in a hamburger looking key availability. 
 
 # Movement cluster
