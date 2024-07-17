@@ -12,6 +12,7 @@ I would like to present the “Reduced Typing Method” or RTM-layout:
 ## Index and middle finger combos
 ![Index and Middle](/images/2_combo_index_ring.png)
 ![Index and Middle](/images/2_combo_index_ring_diag.png)
+![Index and Middle](/images/2_combo_index_middle_diag.png)
  
 ## Middle and ring finger combos plus index finger chords
 ![Middle and Ring](/images/2_combo_middle_ring.png)
@@ -21,7 +22,7 @@ I would like to present the “Reduced Typing Method” or RTM-layout:
 ![Index, Middle, Ring and Pinky](/images/3_4_finger_combos.png)
  
 ## Chords
-![Chords](/images/chords.png)
+![Chords](/images/4_chords.png)
  
 ## Developer specific combos
 ![Dev #1](/images/4_index_ring_combos.png)
